@@ -1,0 +1,79 @@
+.jumbotron {
+    text-align:center;
+    color:black;
+   }
+.right {
+    text-align:right;
+}
+#login {
+    text-align:center;
+    padding:15px;
+    background:#fbf2dc;
+}
+.loginform {
+    border: 5px;
+    width:25%;
+    text-align:center;
+    margin-left:37%;
+}
+.well {
+  background:#fbf2dc;  
+
+}
+.form-group {
+    text-align:center;
+    margin-left:auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top:10px;
+}
+.form-update {
+    width:40px;
+}
+.nav-tabs{
+    color:black;
+    margin:20px;
+}
+.center {
+    text-align:center;
+}
+.container-fluid {
+    margin:30px;
+}
+.btn {
+    width:100%;
+    margin-top:0px;
+}
+.btn-primary {
+    width:auto;
+}
+p {
+    font-size:14px;
+    font-family:helvetica;
+}
+.panel-default {
+    padding:10px;
+    margin-left:50px;
+    margin-right:50px;
+}
+.glyphicon-shopping-cart {
+    color:black;
+    padding:7px;
+    margin:0px;
+}
+.glyphicon-search {
+    color:black;
+    padding:10px;
+    margin:10px;
+}
+#table table
+{
+    width: 100%;
+}
+
+th, td {
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
